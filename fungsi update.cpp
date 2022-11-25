@@ -126,7 +126,6 @@ void update_data()
 			cout<<"nama: ";cin>>maba[dt-1].nama;
             cout<<"NIM : " ;cin>>maba[dt-1].nim;
             cout<<"kom : " ;cin>>maba[dt-1].kom;
-            cout<<endl;
 			}
 		}
 	}
